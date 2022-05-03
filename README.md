@@ -27,3 +27,6 @@ width="30px" height="height">
 <img src="images/twitter.png" alt="alternate text"
 width="30px" height="height">
 </a> 
+
+### 📓 Education
+![UDEMY](https://camo.githubusercontent.com/4ac8a7a42c5f8d85371c33b1502a0a8aaec1cd359573ee6723c5d8351595b0a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4134333546303f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465)
