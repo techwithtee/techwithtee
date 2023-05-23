@@ -1,10 +1,9 @@
-### Hi there my names Tosin, I am a BSc Computer Science student at University of Essex and I am currently working as a Technical Support Assistant at VIBE Systems. I am looking for my first Junior Software Engineering role👋
+### Hi there my names Tosin, I am a final year BSc Computer Science student at University of Essex and I am currently working as a Graduate Software Developer Trainee at Wiley Edge. I am looking to collaborate on projects👋
 
 <br>
 
-- 👩🏿‍💻 I'm currently on the 12 week Mentorship programme with [Black Girls In Tech](https://www.blackgirlsintech.org/)
-
-- 🔭 I’m currently working on my. technical skills such as Python, HTML, CSS & PHP
+- 👩🏿‍💻 I completed the 12 week Mentorship programme with [Black Girls In Tech](https://www.blackgirlsintech.org/)
+- 🔭 I’m currently working on my technical skills such as Python, HTML, CSS & PHP
 - 🌱 I’m currently learning Technologies such as Python & PHP and problem-solving
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with improving on my coding languages
