@@ -1,4 +1,4 @@
-### Hi there my names Tosin, I am a final year BSc Computer Science student at University of Essex and I am currently working as a Graduate Software Developer Trainee at Wiley Edge. I am looking to collaborate on projects👋
+### Hi there my names Tosin, I am a final year BSc Computer Science student at University of Essex and I am an incoming Graduate Software Developer Trainee at Wiley Edge. I am looking to collaborate on projects👋
 
 <br>
 
