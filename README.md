@@ -1,13 +1,13 @@
-### Hi there my names Tosin, I am a recent BSc Computer Science graduate from  University of Essex and I am a Graduate Software Developer Trainee at Wiley Edge. I am looking to collaborate on projects👋
+### Hi there my names TEE, I am a recent BSc Computer Science graduate from  University of Essex and I am a Software Developer Trainee at Wiley Edge. I am looking to collaborate on projects👋
 
 <br>
 
 - 👩🏿‍💻 I completed the 12 week Mentorship programme with [Black Girls In Tech](https://www.blackgirlsintech.org/)
-- 🔭 I’m currently working on my technical skills such as Python, HTML, CSS & PHP
-- 🌱 I’m currently learning Technologies such as Python & PHP and problem-solving
+- 🔭 I’m currently working on my technical skills such as Python, Java, HTML, CSS & JavaScript
+- 🌱 I’m currently learning Technologies such as Java, SpringBoot, 
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with improving on my coding languages
-- 💬 Ask me about Web Development
+- 💬 Ask me about Data Science
 - 📫 How to reach me: techwithtee@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am passionate about Fashion Technology
