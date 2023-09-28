@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my technical skills such as Python, Java, HTML, CSS & JavaScript
 - 🌱 I’m currently learning Technologies such as SpringBoot, JDBC, JSON,  Maven and JUnit5
 - 👯 I’m looking to collaborate on Fashion Related Projects
-- 💬 Ask me about Data Science
+- 💬 Ask me about my ideas for the future of Fashion Tehnology 
 - 📫 How to reach me: techwithtee@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am passionate about Fashion Technology, Women in STEM and Black Girls in Technology.
@@ -21,8 +21,8 @@
 width="30px" height="height">
 </a> 
 
-<a href="https://twitter.com/techwithtee">
-<img src="images/twitter.png" alt="alternate text"
+<a href="https://instagram.com/techwithtee">
+<img src="images/instagram.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 
