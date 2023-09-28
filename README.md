@@ -1,16 +1,15 @@
-### Hi there my names TEE, I am a recent BSc Computer Science graduate from  University of Essex and I am a Software Developer Trainee at Wiley Edge. I am looking to collaborate on projects👋
+### Hi there my names TEE and I am a Full-Stack Java Developer at Wiley Edge👋
 
 <br>
 
-- 👩🏿‍💻 I completed the 12 week Mentorship programme with [Black Girls In Tech](https://www.blackgirlsintech.org/)
+- 👩🏿‍💻 I am a recent BSc Computer Science graduate from  University of Essex
 - 🔭 I’m currently working on my technical skills such as Python, Java, HTML, CSS & JavaScript
-- 🌱 I’m currently learning Technologies such as Java, SpringBoot, 
-- 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with improving on my coding languages
+- 🌱 I’m currently learning Technologies such as SpringBoot, JDBC, JSON,  Maven and JUnit5
+- 👯 I’m looking to collaborate on Fashion Related Projects
 - 💬 Ask me about Data Science
 - 📫 How to reach me: techwithtee@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am passionate about Fashion Technology
+- ⚡ Fun fact: I am passionate about Fashion Technology, Women in STEM and Black Girls in Technology.
 
 ### 👾 Technical Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
