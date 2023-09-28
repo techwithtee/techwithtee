@@ -16,7 +16,7 @@
 
 ### 📲 Connect with Me
 
-<a href="https://www.linkedin.com/in/tosin-oluwole-044887150/">
+<a href="https://www.linkedin.com/in/tosin-oluwole/">
 <img src="images/linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a> 
