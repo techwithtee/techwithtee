@@ -1,10 +1,10 @@
-### Hi there my names TEE and I am a Full-Stack Java Developer at Wiley Edge👋
+### Hi there my names TEE and I am a Technology Engineer 👋
 
 <br>
 
 - 👩🏿‍💻 I am a recent BSc Computer Science graduate from  University of Essex
 - 🔭 I’m currently working on my technical skills such as Python, Java, HTML, CSS & JavaScript
-- 🌱 I’m currently learning Technologies such as SpringBoot, JDBC, JSON,  Maven and JUnit5
+- 🌱 I’m currently learning Technologies such as Tableau, Looker and Machine Learning
 - 👯 I’m looking to collaborate on Fashion Related Projects
 - 💬 Ask me about my ideas for the future of Fashion Tehnology 
 - 📫 How to reach me: techwithtee@gmail.com
