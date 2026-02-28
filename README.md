@@ -23,7 +23,7 @@ width="30px" height="height">
 </a> 
 
 <a href="https://tiktok.com/thetechwithtee">
-<img src="images/tiktok.png" alt="alternate text"
+<img src="images/tiktok.jpg" alt="alternate text"
 width="30px" height="height">
 </a> 
 
