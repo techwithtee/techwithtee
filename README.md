@@ -1,11 +1,11 @@
-### Hi there, my name is TEE and I am a Fashion Technologist 👩🏿‍💻
+### Hi there, my name is TEE and I am a Fashion Technologist 🛍️
 
 <br>
 
 - 👩🏿‍💻 BSc Computer Science Graduate, University of Essex
 - 🔭 An Applied Data Scientist, specialising in Fashion Intelligence
 - 🌱 Mid-Level Developer (Spring Cohort 26) @ Code First Girls 
-- 📫 How to reach me: techwithtee@gmail.com
+- 📫 Contact: techwithtee@gmail.com
 - 😄 Pronouns: She/Her
 
 ### 👾 Technical Skills
@@ -23,5 +23,10 @@ width="30px" height="height">
 width="30px" height="height">
 </a> 
 
-### ✍🏿 Project Links
+<a href="https://tiktok.com/thetechwithtee">
+<img src="images/instagram.png" alt="alternate text"
+width="30px" height="height">
+</a> 
+
+### ✨ Project Links
 [👉🏿Click Me](https://github.com/techwithtee?tab=repositories)
