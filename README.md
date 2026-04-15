@@ -3,8 +3,7 @@
 <br>
 
 - 👩🏿‍💻 BSc Computer Science Graduate, University of Essex
-- 🔭 An Applied Data Scientist, specialising in Fashion Intelligence
-- 🌱 Mid-Level Developer (Spring Cohort 26) @ Code First Girls 
+- 🔭 A Data Scientist, specialising in Fashion Intelligence
 - 📫 Contact: techwithtee@gmail.com
 
 ### 👾 Technical Skills
