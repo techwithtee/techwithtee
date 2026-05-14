@@ -1,9 +1,9 @@
-### Hi there, my name is TEE and I am a Fashion Technologist 🛍️
+### Hi there, my name is TEE and I am a Data Scientist 🛍️
 
 <br>
 
 - 👩🏿‍💻 BSc Computer Science Graduate, University of Essex
-- 🔭 A Data Scientist, specialising in Fashion Intelligence
+- 🔭 A Data Scientist, specialising in Fashion & Beauty Intelligence
 - 📫 Contact: techwithtee@gmail.com
 
 ### 👾 Technical Skills
